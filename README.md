@@ -60,8 +60,8 @@ Make sure your images are inside *plots/* folder.
 
 
 ### *Histogram*
-![Histogram](https://github.com/manasi-sawant/Data-analyst-Intership-Assignment-Mini-Stock-Advisor-/blob/4f4ca618a3cfbade2cb7111f483f8a0a64d88a68/Bar%20Graph.png)
+![Histogram](https://github.com/DataAnalytics-Neo/Manasi-S-Mini-stock-Advisor-ASS-1/blob/1dea72919aad38010a74283d4171826325d33d2c/Histogram.png)
 
 ### *Scatter Plot*
-![Scatter Plot](https://github.com/manasi-sawant/Data-analyst-Intership-Assignment-Mini-Stock-Advisor-/blob/4f4ca618a3cfbade2cb7111f483f8a0a64d88a68/Bar%20Graph.png)
+![Scatter Plot](https://github.com/DataAnalytics-Neo/Manasi-S-Mini-stock-Advisor-ASS-1/blob/1dea72919aad38010a74283d4171826325d33d2c/Scatter%20Plot.png)
 
